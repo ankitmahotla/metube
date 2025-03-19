@@ -23,4 +23,4 @@ Use the Live Server extension in VSCode to run the project locally.
 - Click on a video tile to open the video on YouTube.
 - Input search queries to filter from the list of fetched videos.
 
-Explore deployed webpage here: [MeTube](https://random-quotes-theta-blue.vercel.app/)
+Explore deployed webpage here: [MeTube](https://metube-eight.vercel.app/)
